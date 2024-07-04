@@ -7,15 +7,18 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C83618AF2C362665004B6867 /* Questao.swift in Sources */ = {isa = PBXBuildFile; fileRef = C83618AE2C362665004B6867 /* Questao.swift */; };
 		C8D2299A2C348BBF00E9DA1D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8D229992C348BBF00E9DA1D /* AppDelegate.swift */; };
 		C8D2299C2C348BBF00E9DA1D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8D2299B2C348BBF00E9DA1D /* SceneDelegate.swift */; };
 		C8D2299E2C348BBF00E9DA1D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8D2299D2C348BBF00E9DA1D /* ViewController.swift */; };
 		C8D229A12C348BBF00E9DA1D /* Base in Resources */ = {isa = PBXBuildFile; fileRef = C8D229A02C348BBF00E9DA1D /* Base */; };
 		C8D229A32C348BC100E9DA1D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C8D229A22C348BC100E9DA1D /* Assets.xcassets */; };
 		C8D229A62C348BC100E9DA1D /* Base in Resources */ = {isa = PBXBuildFile; fileRef = C8D229A52C348BC100E9DA1D /* Base */; };
+		C8D229AE2C34A9BB00E9DA1D /* QuestaoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8D229AD2C34A9BB00E9DA1D /* QuestaoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C83618AE2C362665004B6867 /* Questao.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Questao.swift; sourceTree = "<group>"; };
 		C8D229962C348BBF00E9DA1D /* iQuiz.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iQuiz.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C8D229992C348BBF00E9DA1D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C8D2299B2C348BBF00E9DA1D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -24,6 +27,7 @@
 		C8D229A22C348BC100E9DA1D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C8D229A52C348BC100E9DA1D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C8D229A72C348BC100E9DA1D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C8D229AD2C34A9BB00E9DA1D /* QuestaoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestaoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				C8D229A22C348BC100E9DA1D /* Assets.xcassets */,
 				C8D229A42C348BC100E9DA1D /* LaunchScreen.storyboard */,
 				C8D229A72C348BC100E9DA1D /* Info.plist */,
+				C8D229AD2C34A9BB00E9DA1D /* QuestaoViewController.swift */,
+				C83618AE2C362665004B6867 /* Questao.swift */,
 			);
 			path = iQuiz;
 			sourceTree = "<group>";
@@ -141,6 +147,8 @@
 				C8D2299E2C348BBF00E9DA1D /* ViewController.swift in Sources */,
 				C8D2299A2C348BBF00E9DA1D /* AppDelegate.swift in Sources */,
 				C8D2299C2C348BBF00E9DA1D /* SceneDelegate.swift in Sources */,
+				C83618AF2C362665004B6867 /* Questao.swift in Sources */,
+				C8D229AE2C34A9BB00E9DA1D /* QuestaoViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
